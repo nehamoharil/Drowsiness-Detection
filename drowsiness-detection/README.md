@@ -2,11 +2,11 @@
 - Install anaconda 3.7 
 - In the anaconda prompt, Do the following 
 ```bash
- - pip install opencv-python 
- - pip install dlib 
- - pip install imutils
- - pip install numpy 
- - pip install scipy 
+  pip install opencv-python 
+  pip install dlib 
+  pip install imutils
+  pip install numpy 
+  pip install scipy 
  ```
  
 
